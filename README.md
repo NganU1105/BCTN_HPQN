@@ -4,14 +4,14 @@
 - Lớp				     	        :         46K29.2
 - Chuyên ngành            : Khoa học dữ liệu & Phân tích kinh doanh
 - Mục tiêu chung
-Về mặt lý thuyết: Hệ thống hóa lại các kiến thức về BI, trực quan hóa dữ liệu, giới thiệu về công cụ Tableau. Giới thiệu phần mềm giám sát tình hình nhập xuất hàng hóa qua cảng.  
-Về mặt ứng dụng: Phân tích dữ liệu về khối lượng nhập xuất từng nhóm hàng ở từng bến cũng như việc sử dụng các thiết bị chuyên chở tại các nhà máy ra cảng. Từ đó nghiên cứu tìm ra nguyên nhân đình trị gây rối loạn thời gian nhập xuất làm ùn tắc tàu ở bến cảng. 
+* Về mặt lý thuyết: Hệ thống hóa lại các kiến thức về BI, trực quan hóa dữ liệu, giới thiệu về công cụ Tableau. Giới thiệu phần mềm giám sát tình hình nhập xuất hàng hóa qua cảng.  
+* Về mặt ứng dụng: Phân tích dữ liệu về khối lượng nhập xuất từng nhóm hàng ở từng bến cũng như việc sử dụng các thiết bị chuyên chở tại các nhà máy ra cảng. Từ đó nghiên cứu tìm ra nguyên nhân đình trị gây rối loạn thời gian nhập xuất làm ùn tắc tàu ở bến cảng. 
 - Đối tượng và phạm vi nghiên cứu:
-Đối tượng nghiên cứu: Dữ liệu nhập xuất qua cảng của các nhóm hàng ở 11 bến. 
-Phạm vi nghiên cứu: Dữ liệu năm 2023.
+* Đối tượng nghiên cứu: Dữ liệu nhập xuất qua cảng của các nhóm hàng ở 11 bến. 
+* Phạm vi nghiên cứu: Dữ liệu năm 2023.
 - Phương pháp nghiên cứu: 
-Thu thập dữ liệu: trích xuất thông tin từ hệ thống lưu trữ chung của công ty.
-Phỏng vấn chuyên gia : phỏng vấn trực tiếp anh/chị hướng dẫn và các bộ quản lý để thu thập thông tin xác định bài toán. 
+* Thu thập dữ liệu: trích xuất thông tin từ hệ thống lưu trữ chung của công ty.
+* Phỏng vấn chuyên gia : phỏng vấn trực tiếp anh/chị hướng dẫn và các bộ quản lý để thu thập thông tin xác định bài toán. 
 - Kết cấu đề tài 
 Đề tài được tổ chức gồm phần mở đầu và 4 chương:
 Lời mở đầu
