@@ -17,7 +17,7 @@ Phương pháp nghiên cứu:
 * Phỏng vấn chuyên gia : phỏng vấn trực tiếp anh/chị hướng dẫn và các bộ quản lý để thu thập thông tin xác định bài toán. 
 
 Đề tài được tổ chức gồm phần mở đầu và 4 chương:
-Lời mở đầu: Phần này trình bày lý do thực hiện đề tài và giới thiệu chung về đề tài
+- Lời mở đầu: Phần này trình bày lý do thực hiện đề tài và giới thiệu chung về đề tài
 - Chương 1: Tổng quan về đơn vị thực tập 
 Phần này giới thiệu tổng quan về đơn vị bao gồm: lịch sử hình thành, lĩnh vực hoạt động, cơ cấu tổ chức, tình hình kinh doanh,.. 
 - Chương 2: Cơ sở lý thuyết
